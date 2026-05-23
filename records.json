@@ -1,0 +1,42 @@
+[
+    {
+        "record_id": "R001",
+        "material": "cardboard",
+        "weight": 32.0,
+        "price_per_kg": 0.2,
+        "income": 6.4,
+        "record_time": "2026-05-23 17:53"
+    },
+    {
+        "record_id": "R002",
+        "material": "copper",
+        "weight": 32.0,
+        "price_per_kg": 8.0,
+        "income": 256.0,
+        "record_time": "2026-05-23 17:53"
+    },
+    {
+        "record_id": "R003",
+        "material": "e-waste",
+        "weight": 56.0,
+        "price_per_kg": 2.0,
+        "income": 112.0,
+        "record_time": "2026-05-23 17:53"
+    },
+    {
+        "record_id": "R004",
+        "material": "aluminium",
+        "weight": 12.0,
+        "price_per_kg": 1.5,
+        "income": 18.0,
+        "record_time": "2026-05-23 17:53"
+    },
+    {
+        "record_id": "R005",
+        "material": "plastic",
+        "weight": 45.0,
+        "price_per_kg": 0.35,
+        "income": 15.75,
+        "record_time": "2026-05-23 17:53"
+    }
+]
