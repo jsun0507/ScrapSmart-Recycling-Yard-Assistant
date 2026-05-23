@@ -102,7 +102,7 @@ The program uses a JSON file to save and load recycling records. Before saving, 
 
 The price and income values are saved as numbers in the JSON file. The dollar sign is only added when the program displays the values to the user.
 
-### Error Handling
+### Exception Handling
 
 The program uses `try` and `except` to handle invalid user input. For example, if the user enters letters instead of a number for the material weight, the program will show an error message instead of crashing.
 
